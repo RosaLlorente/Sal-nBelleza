@@ -1,0 +1,16 @@
+{
+    "name": "rosa/salon-belleza",
+    "description": "Proyecto php de salon de belleza",
+    "autoload": {
+        "psr-4": {
+            "Rosa\\SalonBelleza\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rosa Llorente",
+            "email": "rosamariallorentemojica@gmail.com"
+        }
+    ],
+    "require": {}
+}
